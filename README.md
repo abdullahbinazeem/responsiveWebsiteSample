@@ -1,1 +1,1 @@
-#Reasponsive Website Sample
+#ResponsiveWebsiteSample
